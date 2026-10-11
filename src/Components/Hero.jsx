@@ -12,14 +12,14 @@ const Hero = () => {
                      <button className="secondary-button">Category</button>
         <div>
              <p className="pera">Also Available On</p>
-             <img className="img1" src="./assests/images/flipkart.png" alt="App Store" />
-             <img className="img2" src="./assests/images/amazon.png" alt="Google Play" />
+             <img className="img1" src="./images/flipkart.png"  alt="App Store" />
+             <img className="img2" src="./images/amazon.png"  alt="Google Play" />
          </div>
                               
                  </div>
      </div>
         <div className="hero-logo">
-            <img src="./assests/images/shoe-image.png" alt="hero-img" />
+            <img src="./images/shoe-image.png" alt="hero-img" />
         </div>
      </div>
         

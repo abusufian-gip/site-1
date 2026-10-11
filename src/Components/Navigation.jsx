@@ -4,7 +4,7 @@ const Navigation = ({ onLoginClick, userEmail, onLogout }) => {  return (
         <nav className="navbar">
           <div className="container">
                 <div className="nav-logo">
-                  <img src="./assests/images/brand_logo.png" alt="ShoeStore Logo" />
+                  <img src="./images/brand_logo.png"  alt="ShoeStore Logo" />
                 </div>
                 <ul className="nav-menu">
                     <li><a href="#" >Home</a></li>

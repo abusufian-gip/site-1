@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="input-container" style={{display :"flex" , columnGap: "50px"}}>
 
       <div className="left-side">
-        <img src="./assests/nike show pic.png" alt="" />
+        <img src="./images/nike-show-pic.png" alt="" />
       </div>
 
       <div  className="right-side">

@@ -28,7 +28,7 @@ const App = () => {
       <div className="card-container" id="product-section">
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card2.png" alt="Card 1" />
+            <img src="./images/card-2.png" alt="Card 1" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -43,7 +43,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card3.png" alt="Card 2" />
+            <img src="./images/card-3.png"  alt="Card 2" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -58,7 +58,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card4.png" alt="Card 3" />
+            <img src="./images/card-4.png" alt="Card 3" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -73,7 +73,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card5.png" alt="Card 4" />
+            <img src="./images/card-5.png"  alt="Card 4" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -88,7 +88,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card1.png" alt="Card 5" />
+            <img src="./images/card-1.png"  alt="Card 5" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -103,7 +103,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card10.png" alt="Card 6" />
+            <img src="./images/card-10.png" alt="Card 6" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -118,7 +118,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 27.png" alt="Card 7" />
+            <img src="./images/card-27.png"  alt="Card 7" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -133,7 +133,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card12.png" alt="Card 8" />
+            <img src="./images/card-12.png"  alt="Card 8" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -148,7 +148,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 28.png" alt="Card 9" />
+            <img src="./images/card-28.png" alt="Card 9" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -163,7 +163,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 13.png" alt="Card 10" />
+            <img src="./images/card-13.png"  alt="Card 10" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -178,7 +178,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 14.png" alt="Card 11" />
+            <img src="./images/card-14.png"  alt="Card 11" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -193,7 +193,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 15.png" alt="Card 12" />
+            <img src="./images/card-15.png"  alt="Card 12" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -208,7 +208,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 16.png" alt="Card 13" />
+            <img src="./images/card-16.png"  alt="Card 13" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -223,7 +223,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 17.png" alt="Card 15" />
+            <img src="./images/card-17.png"  alt="Card 15" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -238,7 +238,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 18.png" alt="Card 16" />
+            <img src="./images/card-18.png"  alt="Card 16" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -253,7 +253,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 20.png" alt="Card 17" />
+            <img src="./images/card-20.png"  alt="Card 17" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -268,7 +268,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 21 .png" alt="Card 18" />
+            <img src="./images/card-21.png"  alt="Card 18" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -283,7 +283,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 22.png" alt="Card 19" />
+            <img src="./images/card-22.png"  alt="Card 19" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -298,7 +298,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 24.png" alt="Card 21" />
+            <img src="./images/card-24.png"  alt="Card 21" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -313,7 +313,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="./assests/images/card 23.png" alt="Card 22" />
+            <img src="./images/card-23.png"  alt="Card 22" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
@@ -328,7 +328,7 @@ const App = () => {
 
         <div className="Card">
           <div className="card-image">
-            <img src="assests/images/card 26 .png" alt="Card 23" />
+            <img src="./images/card-26.png"  alt="Card 23" />
           </div>
           <div className="card-content">
             <span className="card-tag">SNEAKERS</span>
