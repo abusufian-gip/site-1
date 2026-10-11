@@ -13,9 +13,6 @@ const Card = ({image , heading , title, content, price, btntext }) => {
       </div>
     </div>
 
-
-
-
   )
 
 }

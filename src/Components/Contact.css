@@ -95,23 +95,20 @@
 .footer {
     width: 100vw;
     min-height: 300px;
-
     margin: 0;
     padding: 35px 0;
-
     background-color: black;
     color: white;
-
     position: relative;
 
-    /* Parent container থেকে বের হয়ে full screen */
+    
     left: 50%;
     transform: translateX(-50%);
 }
 
 .footer-container {
     width: 90%;
-    max-width: 1400px;
+    max-width: 1200px;
 
     margin: 0 auto;
 
@@ -122,3 +119,4 @@
     column-gap: 70px;
 }
 
+    

@@ -25,7 +25,7 @@ const App = () => {
       <Hero />
 
       {/* Card Section */}
-      <div className="card-container" id="product-section">
+      <div className="card-container">
         <div className="Card">
           <div className="card-image">
             <img src="./images/card-2.png" alt="Card 1" />

@@ -1,8 +1,7 @@
 
 .input-container {
-    width: 100%;
+   
     min-height: 600px;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,13 +11,16 @@
 }
 
 .left-side img {
-  width: 100%;
+  width: 80%;
   height: auto;
   border-radius: 12px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
 }
 .left-side, 
 .right-side {
-  flex: 1; 
+ 
   width: 50%;
   
 }
@@ -28,7 +30,7 @@
    height: auto;
   background: #a6a0a02b;
     justify-items:center;
-    align-items: ;
+    align-items: center;
     text-align: center ;
     border-radius: 15px;
 }
@@ -39,8 +41,6 @@
   font-size: 16px;
   box-sizing: border-box; 
 }
-
-
 
 .submitbtn {
   padding: 15px 30px;

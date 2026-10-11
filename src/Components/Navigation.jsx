@@ -13,16 +13,16 @@ const Navigation = ({ onLoginClick, userEmail, onLogout }) => {  return (
                     <li><a href="#" >Contact</a></li>
                     <li><a href="#" >Location</a></li>
                 </ul>
-                {userEmail ? (
+                {userEmail ? 
                 <div className="user-profile">
             <span className="user-email">{userEmail}</span>
             <button className="logout-btn" onClick={onLogout}>Logout</button>
           </div>
-                 ) :( 
+                 :
                 <button className="nav-btn" onClick={onLoginClick}>
                       Login
                  </button>
-          )}
+          }
     </div>
     </nav>
   )

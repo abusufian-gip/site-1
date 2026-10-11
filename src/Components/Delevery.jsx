@@ -2,7 +2,8 @@
 
 const Delevery = () => {
   return (
-    <div className="delevery-part">
+   <div className="container">
+     <div className="delevery-part">
        <div>
          <h1>Fast Delivery</h1>
         <h3>Get your order with-in 7-10 days</h3>
@@ -21,6 +22,7 @@ const Delevery = () => {
        </div>
 
     </div>
+   </div>
   )
 }
 
