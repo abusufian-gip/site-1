@@ -1,0 +1,124 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.join-part h3{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "poppins", sans-serif;
+    color: aliceblue;
+}
+.join-part p{
+    font-size: 12px;
+    font-weight: 300;
+    font-family: "poppins", sans-serif;
+     color: aliceblue;
+}
+.join-part button{
+    font-size: 16px;
+    font-weight: 500;
+    background: #91df0a;
+    font-family: "poppins", sans-serif;
+    flex-direction: column;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 15px rgba(95, 88, 10, 0.205);
+}
+.join-part button:hover{
+      box-shadow: 0 0 10px rgb(4, 171, 171), 0 0 25px rgb(9, 162, 162), 0 0 50px rgba(68, 133, 133, 0.63);
+
+}
+.about h3 {
+         font-size: 16px;
+         font-weight: 600;
+        font-family: "poppins", sans-serif;
+        display: flex;
+        justify-content: start;
+         color: aliceblue;
+}
+
+.about {
+    width: 220px;
+}
+
+.about ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+     font-size: 12px;
+    font-weight: 300;
+    font-family: "poppins", sans-serif;
+
+}
+
+.about li {
+    margin-bottom: 5px;
+    text-align: left;
+     color: aliceblue;
+}
+.contactus h3{
+      font-size: 16px;
+         font-weight: 600;
+        font-family: "poppins", sans-serif;
+        display: flex;
+        justify-content: start;
+         color: aliceblue;
+
+}
+.contactus p{
+    font-size: 12px;
+    font-weight: 300;
+    font-family: "poppins", sans-serif;
+     color: aliceblue;
+
+}
+.service {
+    width: 220px;
+    text-align: start;
+}
+
+.service h3{
+      font-size: 16px;
+         font-weight: 600;
+        font-family: "poppins", sans-serif;
+        display: flex;
+        justify-content: start;
+         color: aliceblue;
+}
+.service P{
+    font-size: 12px;
+    font-weight: 300;
+    font-family: "poppins", sans-serif;
+     color: aliceblue;
+    
+}
+.footer {
+    width: 100vw;
+    min-height: 300px;
+
+    margin: 0;
+    padding: 35px 0;
+
+    background-color: black;
+    color: white;
+
+    position: relative;
+
+    /* Parent container থেকে বের হয়ে full screen */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.footer-container {
+    width: 90%;
+    max-width: 1400px;
+
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    column-gap: 70px;
+}
+
