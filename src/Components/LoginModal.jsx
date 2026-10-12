@@ -19,7 +19,30 @@ const LoginModal = ({ showLogin, setShowLogin, setUserEmail }) => {
 
   return (
     <div className="modal-overlay">
-      <div className="modal-box">
+      <div className="modal-box" style={{ position: 'relative' }}>
+        <button 
+        type="button"
+        onClick={() => setShowLogin(false)}
+        style={{
+          position: 'absolute',
+          top: '15px',
+          right: '20px',
+          background: 'none',
+          border: 'none',
+          color: '#ffffff',
+          fontSize: '24px',
+          fontWeight: 'bold',
+          cursor: 'pointer',
+          padding: '0',
+          margin: '0',
+          width: 'auto',
+          height: 'auto',
+          lineHeight: '1',
+          boxShadow: 'none'
+        }}
+      >
+        ✕
+      </button>
         <h2>Please Login</h2>
 
         <form onSubmit={handleLoginSubmit}>

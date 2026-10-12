@@ -2,7 +2,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
     
   body {
-  max-width: 1280px;
+  max-width: 1200px;
   margin: 0 auto;
 }
    
@@ -72,7 +72,7 @@
   background: rgba(255, 255, 255, 0.12);
   box-shadow: 0 0 10px rgba(255, 138, 0, 0.3);
 }
-.submit-btn {
+.login-btn {
  width: 100%;
   padding: 12px;
   margin-top: 6px;
@@ -85,25 +85,9 @@
   cursor: pointer;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.submit-btn:hover {
+.login-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(229, 46, 113, 0.4);
-}
-.close-btn {
-  width: 100%;
-  padding: 10px;
-  background: transparent;
-  color: #a0aec0;
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 10px;
-  font-size: 14px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-.close-btn:hover {
-  background: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
 }
 
 .password-wrapper {
